@@ -823,6 +823,7 @@
                 <module>spring-vault</module>
                 <module>spring-web-modules</module>
                 <module>spring-websockets</module>
+                <module>spring-jdbc</module>
                 <module>static-analysis-modules</module>
                 <module>tensorflow-java</module>
                 <module>testing-modules</module>
